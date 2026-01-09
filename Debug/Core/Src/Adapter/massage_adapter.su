@@ -1,0 +1,6 @@
+../Core/Inc/mavlink/common/../checksum.h:34:20:crc_accumulate	0	static
+../Core/Inc/mavlink/common/../mavlink_helpers.h:216:25:mavlink_msg_to_send_buffer	16	static
+../Core/Inc/mavlink/common/../mavlink_helpers.h:141:25:mavlink_finalize_message.isra	40	static
+../Core/Src/Adapter/massage_adapter.c:14:6:send_optical_flow	576	static
+../Core/Src/Adapter/massage_adapter.c:51:6:send_distance_sensor	576	static
+../Core/Src/Adapter/massage_adapter.c:97:6:send_heart_beat	584	static

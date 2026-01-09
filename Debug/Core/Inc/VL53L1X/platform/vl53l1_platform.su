@@ -1,0 +1,16 @@
+../Core/Inc/VL53L1X/platform/vl53l1_platform.c:58:5:_I2CWrite	16	static
+../Core/Inc/VL53L1X/platform/vl53l1_platform.c:70:5:_I2CRead	16	static
+../Core/Inc/VL53L1X/platform/vl53l1_platform.c:82:14:VL53L1_WriteMulti	16	static
+../Core/Inc/VL53L1X/platform/vl53l1_platform.c:101:14:VL53L1_ReadMulti	16	static
+../Core/Inc/VL53L1X/platform/vl53l1_platform.c:122:14:VL53L1_WrByte	8	static
+../Core/Inc/VL53L1X/platform/vl53l1_platform.c:139:14:VL53L1_WrWord	8	static
+../Core/Inc/VL53L1X/platform/vl53l1_platform.c:157:14:VL53L1_WrDWord	8	static
+../Core/Inc/VL53L1X/platform/vl53l1_platform.c:189:14:VL53L1_RdByte	16	static
+../Core/Inc/VL53L1X/platform/vl53l1_platform.c:175:14:VL53L1_UpdateByte	32	static
+../Core/Inc/VL53L1X/platform/vl53l1_platform.c:210:14:VL53L1_RdWord	16	static
+../Core/Inc/VL53L1X/platform/vl53l1_platform.c:235:14:VL53L1_RdDWord	16	static
+../Core/Inc/VL53L1X/platform/vl53l1_platform.c:260:14:VL53L1_GetTickCount	0	static
+../Core/Inc/VL53L1X/platform/vl53l1_platform.c:312:14:VL53L1_GetTimerFrequency	0	static
+../Core/Inc/VL53L1X/platform/vl53l1_platform.c:321:14:VL53L1_WaitMs	8	static
+../Core/Inc/VL53L1X/platform/vl53l1_platform.c:327:14:VL53L1_WaitUs	8	static
+../Core/Inc/VL53L1X/platform/vl53l1_platform.c:333:14:VL53L1_WaitValueMaskEx	32	static
